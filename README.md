@@ -15,7 +15,7 @@ Back-End Web Developer with a focus on Java and Spring Boot. I build scalable, e
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giulianoscassaioli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
